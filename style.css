@@ -1,0 +1,55 @@
+* {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.header {
+    text-align: center;
+    margin-bottom: 100px;
+    margin: 50px auto;
+    font-size: 40px;
+    background-color: white;
+    width: 300px;
+    padding: 10px;
+}
+
+body{
+    background-color: rgb(232, 189, 88);
+}
+
+.recipesList ,div {
+    background-color: white;
+    width: 500px;
+    padding: 30px;
+    margin: 30px auto;
+
+}
+
+.recipe {
+    margin: 8px;
+    font-size: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+a:link {
+  color: black;     /* normal, unvisited */
+}
+
+a:visited {
+  color: black;     /* visited */
+}
+
+a:hover {
+  color: blue;      /* when hovering */
+}
+
+a:active {
+  color: orange;   /* when clicking */
+}
+
+img {
+    display: block;
+    margin: 40px auto;
+}
